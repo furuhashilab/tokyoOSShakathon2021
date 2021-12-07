@@ -17,7 +17,10 @@ https://github.com/furuhashilab/tokyoOSShakathon2021/projects/1
 https://unvt.github.io/
 
 ## 災害時でも安心マップ
-https://github.com/Ayako-T/TokyoOSSHackathon2021/tree/main/docs
+https://github.com/Ayako-T/TokyoOSSHackathon2021/tree/main/docs   
+
+## Charites資料   
+https://docs.google.com/presentation/d/16DemWsB8F0P1tU6-UOLmTmGUaiBHS72qdJ3GbDeTCGo/edit#slide=id.gc6f73a04f_0_0   
 
 ### それぞれ整備したデータ
 * 急傾斜　崩壊　警戒/特別警戒区域 https://ayako-t.github.io/TokyoOSSHackathon2021/docs/keisya_houkai.html
